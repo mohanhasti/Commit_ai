@@ -18,13 +18,14 @@ To begin working on this project, follow these steps:
 1. Clone this repository to your local machine:
 
    ```
-   https://github.com/makeitMVPadmin/Content.git
+   https://github.com/makeitMVPadmin/Commit_ai.git
    ```
 
 2. Change your working directory to the cloned repository:
 
    ```
-   cd Content
+   cd Commit_ai
+
    ```
 
 3. Install the project dependencies:
